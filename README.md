@@ -3,11 +3,12 @@
 
 create python virtual invironment:
 
-   py -m venv venv
+    py -m venv venv
    
 install all packets that are in the requirements.txt file
 
-   py -m pip -r .\requirements.txt
+    py -m pip -r .\requirements.txt
 
 activate the virtual environment
-   .\venv\Scripts\activate
+
+    .\venv\Scripts\activate
